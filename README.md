@@ -24,7 +24,7 @@ F. Creating a dataframe of the Top and Bottom 5 performing schools in the distri
 ## Resources
 
 - File Compilation: schools_complete.csv, students_complete.csv
-- Software application: Python 3.9.7, Anaconda 2020.11, Jupyter Notebook 6.4.5
+- Software application: Python 3.9.7, Anaconda 2021.03, Jupyter Notebook 6.4.5
 
 # Summary and Results
 
