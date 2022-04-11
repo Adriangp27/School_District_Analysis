@@ -2,6 +2,7 @@
 
 ## Project Overview
 According to a school board request, school funding should be recalculated based on standardized test scores for subjects such as Math and Reading. There is also an academic misconduct from Thomas High School's 9th Grade students that has to be removed from the dataset. Below is a list of deliverables according to the requirements of the school board.
+
 A. Removing prefixes and suffixes from student names in the dataset
 
 B. Remove NAN (Not a Number) from Thomas High School's 9th Grade students' math and readinng grades.
